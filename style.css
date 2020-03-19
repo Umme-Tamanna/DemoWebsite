@@ -102,6 +102,7 @@ span.a {
     margin-left: 120px;
     margin-bottom: 50px;
     padding-left: 5px;
+    box-shadow: 0 0 10px #6344f0;
 }
 
 span.b {
@@ -110,5 +111,6 @@ span.b {
     margin-left: 100px;
     margin-bottom: 50px;
     padding-left: 5px;
+    box-shadow: 0 0 10px brown;
 }
 
